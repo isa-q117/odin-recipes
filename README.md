@@ -1,2 +1,3 @@
 # odin-recipes
-Simple website containing recipes
+Simple website containing recipes.
+Gotta love desserts!
