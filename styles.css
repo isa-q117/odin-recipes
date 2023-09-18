@@ -1,8 +1,16 @@
-h1 h2 h3 {
+* {
+    color: purple;
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+h1,
+h2,
+h3 {
     color: blueviolet;
 }
 
 .main-heading {
-    color: black
-    font-family: arial;
+    color: rgb(3, 3, 3);
+    
 }
